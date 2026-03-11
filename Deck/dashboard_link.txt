@@ -1,4 +1,0 @@
-Kimia Frma Business Performance Dashboard (2020-2023):
-
-Looker Studio Link :
-https://lookerstudio.google.com/reporting/94c81f1f-d1d9-470b-87a1-dc9488a32611
