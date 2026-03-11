@@ -57,6 +57,7 @@ Tujuan dari analisis ini adalah untuk:
 
 ---
 ## 📊 Dashboard Kinerja Bisnis
+![Dashboard Kimia Farma](dashboard/KF_Dashboard_Performance_Analytics.jpg)
 Dashboard ini menampilkan visualisasi interaktif mengenai kinerja bisnis Kimia Farma yang meliputi:
 - Tren penjualan dan profit
 - Distribusi transaksi berdasarkan wilayah
